@@ -5,7 +5,6 @@
 **🧩 Focus Areas:**
 - AI Engineering
 - Backend Systems
-- Competitive Programming (*[Codeforces](https://codeforces.com/profile/raahimanowar)*)
 
 ---
 
