@@ -2,12 +2,9 @@
 
 **Software Engineer actively building AI engineering projects and robust backend systems.**
 
-**🧩 Focus Areas:**
-- AI Engineering
-- Backend Systems
+**💻 My Stats**
 
----
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-30343F?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://raahimanowar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raahimanowar)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdraahimanowar@gmail.com)
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raahimanowar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=raahimanowar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
+</div>
